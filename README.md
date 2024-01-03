@@ -1,7 +1,7 @@
 # Hello_World
 New practice repository
 
-##Python
+## Python
 
 **Important ideas**
 
